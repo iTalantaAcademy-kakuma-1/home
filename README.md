@@ -256,6 +256,54 @@ in message history. Think of this repository as your class' forum and home page.
     </ul>
   </td>
 </tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/kdessaik.jpeg' height="200px" width="200px" alt='kdessaik avatar' /></td>
+  <td> <h3 display="inline" id="kdessaik">Dessai Kibeho</h3>
+    <ul>
+       <li>about: <a href="./student-bios/kdessaik.md" target="_blank">bio</a>,      <a href="https://kdessaik.github.io">home page</a>, <a href="https://github.com/kdessaik">kdessaik</a></li>        </li>        <li>HYF: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/projects/1?card_filter_query=assignee%3Akdessaik">deliverables</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aissue+author%3Akdessaik+label%3Acheck-in">check-ins</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aissue+commenter%3Akdessaik+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=author%3Akdessaik">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=assignee%3Akdessaik+is%3Aissue">assigned</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=commenter%3Akdessaik">commented</a></li>
+        <li>PRs: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=author%3Akdessaik">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=assignee%3Akdessaik+is%3Apr">assigned</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=commenter%3Akdessaik">commented</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=reviewed-by%3Akdessaik+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=author%3Akdessaik">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=commenter%3Akdessaik">commented</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=includes%3Akdessaik">included</a></li>       <li>mentions: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=mentions%3Akdessaik">issues</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=mentions%3Akdessaik">PRs</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=mentions%3Akdessaik">discussions</a>
+        <li><a href="https://github.com/iTalantaAcademy-kakuma-1/kdessaik">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/franco9535.jpeg' height="200px" width="200px" alt='franco9535 avatar' /></td>
+  <td> <h3 display="inline" id="franco9535">Franco Ohisa</h3>
+    <ul>
+       <li>about: <a href="./student-bios/franco9535.md" target="_blank">bio</a>,      <a href="https://franco9535.github.io">home page</a>, <a href="https://github.com/franco9535">franco9535</a></li>        </li>        <li>HYF: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/projects/1?card_filter_query=assignee%3Afranco9535">deliverables</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aissue+author%3Afranco9535+label%3Acheck-in">check-ins</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aissue+commenter%3Afranco9535+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=author%3Afranco9535">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=assignee%3Afranco9535+is%3Aissue">assigned</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=commenter%3Afranco9535">commented</a></li>
+        <li>PRs: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=author%3Afranco9535">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=assignee%3Afranco9535+is%3Apr">assigned</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=commenter%3Afranco9535">commented</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=reviewed-by%3Afranco9535+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=author%3Afranco9535">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=commenter%3Afranco9535">commented</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=includes%3Afranco9535">included</a></li>       <li>mentions: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=mentions%3Afranco9535">issues</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=mentions%3Afranco9535">PRs</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=mentions%3Afranco9535">discussions</a>
+        <li><a href="https://github.com/iTalantaAcademy-kakuma-1/franco9535">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/erot-sammy.jpeg' height="200px" width="200px" alt='erot-sammy avatar' /></td>
+  <td> <h3 display="inline" id="erot-sammy">Sammy Erot</h3>
+    <ul>
+       <li>about: <a href="./student-bios/erot-sammy.md" target="_blank">bio</a>,      <a href="https://erot-sammy.github.io">home page</a>, <a href="https://github.com/erot-sammy">erot-sammy</a></li>        </li>        <li>HYF: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/projects/1?card_filter_query=assignee%3Aerot-sammy">deliverables</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aissue+author%3Aerot-sammy+label%3Acheck-in">check-ins</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aissue+commenter%3Aerot-sammy+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=author%3Aerot-sammy">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=assignee%3Aerot-sammy+is%3Aissue">assigned</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=commenter%3Aerot-sammy">commented</a></li>
+        <li>PRs: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=author%3Aerot-sammy">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=assignee%3Aerot-sammy+is%3Apr">assigned</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=commenter%3Aerot-sammy">commented</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=reviewed-by%3Aerot-sammy+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=author%3Aerot-sammy">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=commenter%3Aerot-sammy">commented</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=includes%3Aerot-sammy">included</a></li>       <li>mentions: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=mentions%3Aerot-sammy">issues</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=mentions%3Aerot-sammy">PRs</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=mentions%3Aerot-sammy">discussions</a>
+        <li><a href="https://github.com/iTalantaAcademy-kakuma-1/erot-sammy">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/abriyusif.jpeg' height="200px" width="200px" alt='abriyusif avatar' /></td>
+  <td> <h3 display="inline" id="abriyusif">Abri Yusif</h3>
+    <ul>
+       <li>about: <a href="./student-bios/abriyusif.md" target="_blank">bio</a>,      <a href="https://abriyusif.github.io">home page</a>, <a href="https://github.com/abriyusif">abriyusif</a></li>        </li>        <li>HYF: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/projects/1?card_filter_query=assignee%3Aabriyusif">deliverables</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aissue+author%3Aabriyusif+label%3Acheck-in">check-ins</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aissue+commenter%3Aabriyusif+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=author%3Aabriyusif">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=assignee%3Aabriyusif+is%3Aissue">assigned</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=commenter%3Aabriyusif">commented</a></li>
+        <li>PRs: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=author%3Aabriyusif">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=assignee%3Aabriyusif+is%3Apr">assigned</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=commenter%3Aabriyusif">commented</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=reviewed-by%3Aabriyusif+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=author%3Aabriyusif">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=commenter%3Aabriyusif">commented</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=includes%3Aabriyusif">included</a></li>       <li>mentions: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=mentions%3Aabriyusif">issues</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=mentions%3Aabriyusif">PRs</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=mentions%3Aabriyusif">discussions</a>
+        <li><a href="https://github.com/iTalantaAcademy-kakuma-1/abriyusif">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
 </ul><br>
 
 
