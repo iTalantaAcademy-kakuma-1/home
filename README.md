@@ -304,6 +304,18 @@ in message history. Think of this repository as your class' forum and home page.
     </ul>
   </td>
 </tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/angathanga7878ochalla.jpeg' height="200px" width="200px" alt='angathanga7878ochalla avatar' /></td>
+  <td> <h3 display="inline" id="angathanga7878ochalla">Angathanga Ochalla</h3>
+    <ul>
+       <li>about: <a href="./student-bios/angathanga7878ochalla.md" target="_blank">bio</a>,      <a href="https://angathanga7878ochalla.github.io">home page</a>, <a href="https://github.com/angathanga7878ochalla">angathanga7878ochalla</a></li>        </li>        <li>HYF: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/projects/1?card_filter_query=assignee%3Aangathanga7878ochalla">deliverables</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aissue+author%3Aangathanga7878ochalla+label%3Acheck-in">check-ins</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aissue+commenter%3Aangathanga7878ochalla+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=author%3Aangathanga7878ochalla">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=assignee%3Aangathanga7878ochalla+is%3Aissue">assigned</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=commenter%3Aangathanga7878ochalla">commented</a></li>
+        <li>PRs: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=author%3Aangathanga7878ochalla">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=assignee%3Aangathanga7878ochalla+is%3Apr">assigned</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=commenter%3Aangathanga7878ochalla">commented</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=reviewed-by%3Aangathanga7878ochalla+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=author%3Aangathanga7878ochalla">opened</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=commenter%3Aangathanga7878ochalla">commented</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=includes%3Aangathanga7878ochalla">included</a></li>       <li>mentions: <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=mentions%3Aangathanga7878ochalla">issues</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=mentions%3Aangathanga7878ochalla">PRs</a>, <a href="https://github.com/iTalantaAcademy-kakuma-1/home/discussions?discussions_q=mentions%3Aangathanga7878ochalla">discussions</a>
+        <li><a href="https://github.com/iTalantaAcademy-kakuma-1/angathanga7878ochalla">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
 </ul><br>
 
 
