@@ -1,86 +1,79 @@
 [
   {
     "milestone": 1,
-    "repoName": "precourse",
-    "filters": [
-      {
-        "text": "prep-work issues",
-        "is": ["issue", "open"],
-        "labels": ["prep-work"]
-      },
-      {
-        "text": "bio pull requests",
-        "is": ["pr", "open"],
-        "labels": ["student-bio"]
-      }
-    ],
-    "board": "projects"
+    "name": "precourse",
+    "board": "deliverables"
   },
   {
     "milestone": 2,
-    "repoName": "incremental-development",
-    "weeks": 3,
-    "board": "projects"
+    "name": "workflows",
+    "chapters": 2,
+    "board": "deliverables"
   },
   {
     "milestone": 3,
-    "repoName": "ux-ui-design",
-    "weeks": 2,
-    "board": "projects"
+    "name": "agile-development",
+    "chapters": 3,
+    "board": "deliverables"
   },
   {
     "milestone": 4,
-    "repoName": "welcome-to-js",
-    "weeks": 2,
-    "board": "vocabulary"
+    "name": "ux-ui-design",
+    "chapters": 2,
+    "board": "deliverables"
   },
   {
     "milestone": 5,
-    "repoName": "debugging",
-    "weeks": 4,
-    "board": "javascript"
+    "name": "welcome-to-js",
+    "chapters": 2,
+    "board": "deliverables"
   },
   {
     "milestone": 6,
-    "repoName": "behavior-strategy-implementation",
-    "weeks": 3,
-    "board": ["snippets", "projects"]
+    "name": "debugging",
+    "chapters": 4,
+    "board": "deliverables"
   },
   {
     "milestone": 7,
-    "repoName": "separation-of-concerns",
-    "weeks": 3,
-    "board": "projects"
+    "name": "behavior-strategy-implementation",
+    "chapters": 3,
+    "board": "deliverables"
   },
   {
-    "milestone": 14,
-    "repoName": "architecture",
-    "weeks": 4,
-    "board": "projects"
+    "milestone": 8,
+    "name": "separation-of-concerns",
+    "chapters": 3,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 9,
+    "name": "architecture",
+    "chapters": 4,
+    "board": "deliverables"
   },
   {
     "milestone": 10,
-    "repoName": "asynchronous-programming",
-    "weeks": 3,
-    "board": "projects"
+    "name": "asynchronous-programming",
+    "chapters": 3,
+    "board": "deliverables"
   },
   {
     "milestone": 11,
-    "repoName": "web-apps",
-    "weeks": 5,
-    "board": "projects"
+    "name": "web-apps",
+    "chapters": 5,
+    "board": "deliverables"
   },
   {
     "milestone": 12,
-    "repoName": "databases",
-    "weeks": 2,
-    "board": "projects"
+    "name": "databases",
+    "chapters": 2,
+    "board": "deliverables"
   },
   {
     "milestone": 13,
-    "repoName": "final-project",
-    "url": "https://home.hackyourfuture.be/curriculum/final-project",
-    "weeks": 6,
-    "board": "projects"
+    "name": "final-project",
+    "chapters": 4,
+    "board": "deliverables"
   }
 ]
