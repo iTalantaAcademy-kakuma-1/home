@@ -7,3 +7,5 @@ Most time i do spend in doing reseach and learn through internet so that i can b
 🥰 
 
 ![image](https://avatars.githubusercontent.com/u/66333199?v=4)
+
+[github link](https://github.com/iTalantaAcademy-kakuma-1/home/tree/main/cheatsheets)
