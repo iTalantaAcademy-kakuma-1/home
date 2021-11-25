@@ -9,5 +9,13 @@
 4. **Coding** : process of writing computer programs using special syntax of a programming language.
 
 5. **programming** :  process of creating softwares and application in order to rum computer hardwares. 
-  
-  
+
+6. **Networking** : process of connecting different computers world wide in order to ease communication.
+ 
+7.  **Dependecies** : these are packages that depend on certain codes
+
+8. **Troubleshooting** : process of examining a computer to find out possible errors.
+
+9. **Web-development** : process of writing codes in order to develop a plaform for browsing using internet.
+
+10. **Extensions**: these are software that add addtional functionality to codes.
