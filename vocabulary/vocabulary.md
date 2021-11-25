@@ -36,3 +36,7 @@ This file gives much details of the project, purpose and issues being address in
 > 9. NPM
 
 This is an abbreviation for Node Package Manager. NPM provide functionality of pre-built code instead of starting from scratch.
+
+> 10. Pull request
+
+Help in submitting code contributions to a project where your working.
