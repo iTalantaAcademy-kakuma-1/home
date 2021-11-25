@@ -2,13 +2,14 @@
 ---
 ---
 
-**staging area** -is files that are going to be part of the next commit
+**staging area** -is files that are going to be part of the next commit.
 
 **PR** - stands for pull request..and this let you tell others what changes you've made in repository on GitHub.
 
 **Repository** -this is a directory or storage space where projects can live.
 
-**Merge** - this is integrating different branch into single master branch
+**Merge** - this is integrating different branch into single master branch.
 
 **NPM** - this stands for node package manager.
 
+**Dependencies** - this is specific library that maybe a given line of code depends on.
