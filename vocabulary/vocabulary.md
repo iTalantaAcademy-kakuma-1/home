@@ -25,3 +25,6 @@ Is an isolated environment where we do our development.
 
 _**Pull Request**_ -
 This is submitting code contributions to a project where you are not the sole developer.
+
+_**Push**_ -
+This is the transfer of data or code from the staging area to your remote repository
