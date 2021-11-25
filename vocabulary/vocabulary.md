@@ -22,3 +22,5 @@ is something which consist of various of component of computer software.
 ###### Persona
 These are fictional characters that ones creat based on research.
 
+###### Syntax
+These are formal rules set to formulate computer statements.
