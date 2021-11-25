@@ -15,3 +15,5 @@
 **devDependence**  similar to dependencies, but this one list only packages only needed during development.
 
 **"name" in package json**  define the name of the package.
+
+ **npm** in full it is Node Package Manager, it is a huge repository of software that can be used by anyone for free.
