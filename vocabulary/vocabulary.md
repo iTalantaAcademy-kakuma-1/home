@@ -5,3 +5,5 @@
 **Forking**  Taking a copy of someone repository. is producing a personal copy of someone else's project.
 
 **Pull requests** is to let others about changes you have push to a branch in a repository you had fork.
+
+**NPM INSTALL**  Install the package in the directory as a symlink in the current project.
