@@ -10,3 +10,5 @@
 
 **Merge** - this is integrating different branch into single master branch
 
+**NPM** - this stands for node package manager.
+
