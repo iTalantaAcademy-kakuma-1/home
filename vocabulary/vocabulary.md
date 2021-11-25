@@ -18,3 +18,6 @@ GTI is a free and open source distributed version control system designed to han
 
 ## GitHub:  
 GITHUB is Application program, where developers shape the future of software, together. Contribute to the open source development.
+## syntax:
+syntax is rule or formula for certain codding formula.
+
