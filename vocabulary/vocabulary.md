@@ -29,4 +29,5 @@ Cherry-picking in Git is meant to apply some commit from one branch into another
 ## Fetching
 It is used to fetch branches and tags from one or more other repositories, along with the objects necessary to complete their histories. It updates the remote-tracking branches.
 
-
+## Index
+The Git index is a staging area between the working directory and repository. It is used as the index to build up a set of changes that you want to commit together.
