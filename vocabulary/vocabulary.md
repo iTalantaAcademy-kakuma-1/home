@@ -1,1 +1,4 @@
-**forking**: this is creating a copy of someones repo to the github account 
+
+
+**package.json**: this is a file that contain codes of js that help to create dependencies
+
