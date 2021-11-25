@@ -12,3 +12,6 @@
 
 ## NPM install
 * npm is the package manager for node. it helps with installing various packages and resolving their various dependencies.
+
+## NPM init
+* npm init can be used to set up a new or existing npm package.
