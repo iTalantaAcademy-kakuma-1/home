@@ -1,6 +1,6 @@
 **VOCABULARIES DEFINITION**
----
-
+----
+____
 > 1. Dependencies
 
 Shows details of package install that is name and version.
@@ -28,3 +28,7 @@ This is an isolated development environment that allows an individual makes some
 > 7. Repository
 
 In git, repository is just a storage location which keeps records of your work.
+
+> 8. README
+
+This file gives much details of the project, purpose and issues being address in that project.
