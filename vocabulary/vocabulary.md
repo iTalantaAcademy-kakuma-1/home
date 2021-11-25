@@ -43,4 +43,7 @@ Tags make a point as a specific point in Git history. It is used to mark a commi
 Light-weighted tag and
 Annotated tag
 
+## Remote
+In Git, the term remote is concerned with the remote repository. It is a shared repository that all team members use to exchange their changes. A remote repository is stored on a code hosting service like an internal server, GitHub, Subversion and more.
 
+In case of a local repository, a remote typically does not provide a file tree of the project's current state, as an alternative it only consists of the .git versioning data.
