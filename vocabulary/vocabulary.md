@@ -4,10 +4,6 @@
           index.html
           style.css
           function.js
-<!-- 2 Syntax, are rules that define the structure of how the code is written i a particular language
+2 Syntax, are rules that define the structure of how the code is written i a particular language
 
-3 Clonning, is a process of copy/pasting someone repository to your local machine
-
- 4 Forking, copy/pasting someone repository in to your github account 
-
-  -->
+3 Cloning, is a process of copy/pasting someone repository in your local machine
