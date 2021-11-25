@@ -11,3 +11,5 @@
 **url repo**  is where the repository can be access from.
 
 **Description** summarize the purpose of the package.
+
+**devDependence**  similar to dependencies, but this one list only packages only needed during development.
