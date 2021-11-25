@@ -18,4 +18,9 @@ It is the most widely used language for developing web pages
 It defines the structure of websites and web pages formating.
 
 # *CSS*.
-Is a simple design language used for marking web pages to look good and presentable.
+Is a simple design language used for marking web pages to look good and presentable. It can be used to attach to html element to style and format it.
+
+# *Javascript*
+It is a powerful integrated language used for web development.
+
+
