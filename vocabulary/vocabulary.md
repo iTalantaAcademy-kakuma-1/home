@@ -21,3 +21,13 @@
         Name
         Picture
         Relevant features
+
+7 Backlog.md, this are needs that should be given fisrt priority eg:
+    
+    must have, should have and could have
+
+8 Design.md, its a wireframe file for blueprints
+
+9 Development-strategy.md, is a high-level plan for steps you will use while building the site.
+
+10 Markdown is a makeup language for  plain text formatting syntax
