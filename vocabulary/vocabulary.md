@@ -24,3 +24,6 @@ These are fictional characters that ones creat based on research.
 
 ###### Syntax
 These are formal rules set to formulate computer statements.
+
+##### Requirement
+These are solution or solver needed towards any problem when one is having a project to work on.
