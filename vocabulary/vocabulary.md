@@ -31,3 +31,16 @@ It is used to fetch branches and tags from one or more other repositories, along
 
 ## Index
 The Git index is a staging area between the working directory and repository. It is used as the index to build up a set of changes that you want to commit together.
+
+## Pull/Pull request
+The term Pull is used to receive data from GitHub. It fetches and merges changes on the remote server to your working directory. The git pull command is used to make a Git pull.
+
+Pull requests are a process for a developer to notify team members that they have completed a feature. Once their feature branch is ready, the developer files a pull request via their remote server account. Pull request announces all the team members that they need to review the code and merge it into the master branch.
+
+## Tag
+Tags make a point as a specific point in Git history. It is used to mark a commit stage as important. We can tag a commit for future reference. Primarily, it is used to mark a projects initial point like v1.1. There are two types of tags.
+
+Light-weighted tag and
+Annotated tag
+
+
