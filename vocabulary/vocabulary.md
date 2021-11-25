@@ -5,4 +5,4 @@ Package.json: is the file that contents depences such as : lodash
 Fork : is coping someone work and clone it from his is repo to your repo so that you can make some changes.
 Clone : Is the Take someone data to your local machine so that you can work on it.
  CLI : is mean Command line Interface
- 
+ VScode : is the text editor that we do use to write code.
