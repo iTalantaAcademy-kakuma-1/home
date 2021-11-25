@@ -2,3 +2,4 @@
 
 1. **Code Review** : it is a process of summiting written codes so the they can be check whether they are valid.
   
+2. **Software** : refers to set of instructions, data, or programs use to operate computers.
