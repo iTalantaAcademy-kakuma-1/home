@@ -5,4 +5,7 @@ complete name is repository, meaning: a central location in which data is stored
 is the process of connecting current work to previous work of the repository.
 
 ## pulling:
-is the process of getting code from different account to the orriginal repo, when working in the same repo/project.
+is the process of getting code from different account to the original repo, when working in the same repo/project.
+
+## NPM:
+nODE PACKAGE MANAGER npm is a package manager for the JavaScript programming language maintained by npm is the default package manager for the JavaScript runtime environment.
