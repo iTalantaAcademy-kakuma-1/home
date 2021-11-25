@@ -19,3 +19,6 @@ It is a distributed version control system.
 
 _**Repository**_ - 
 It is a central location where code or data is stored.
+
+_**Branch**_ -
+Is an isolated environment where we do our development.
