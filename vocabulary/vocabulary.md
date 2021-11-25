@@ -24,3 +24,7 @@ In programming simply means language syntax is simple to write and read.
 > 6. Branches
 
 This is an isolated development environment that allows an individual makes some contribution to the project work on.
+
+> 7. Repository
+
+In git, repository is just a storage location which keeps records of your work.
