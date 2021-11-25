@@ -23,4 +23,6 @@ Is a simple design language used for marking web pages to look good and presenta
 # *Javascript*
 It is a powerful integrated language used for web development.
 
+# *Development strategy*
+It is a high level of implementation. It's where HTML is applied for titling and CSS for centring
 
