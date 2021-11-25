@@ -8,5 +8,5 @@
 
 **NPM INSTALL**  Install the package in the directory as a symlink in the current project.
 
-**url**  is where the repository can be access from.
+**url repo**  is where the repository can be access from.
 
