@@ -12,3 +12,7 @@ markdown: It is lightweight markup language with a plain text formating syntax
 # *Project Starter*
 
 It has the starter materilas for the planning and collaborating deliverable.
+
+# *HTML*
+It is the most widely used language for developing web pages
+It defines the structure of websites and web pages formating.
