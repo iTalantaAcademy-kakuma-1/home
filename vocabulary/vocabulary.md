@@ -13,3 +13,5 @@
 **Description** summarize the purpose of the package.
 
 **devDependence**  similar to dependencies, but this one list only packages only needed during development.
+
+**"name" in package json**  define the name of the package.
