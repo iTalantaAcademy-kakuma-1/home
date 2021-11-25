@@ -12,3 +12,6 @@ consume all ones attention or time.
 ### Project
 
 A planned undertaking task.
+
+#### list
+A roll consisting of an enumeration set of possible items.
