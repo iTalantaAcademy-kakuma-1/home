@@ -25,3 +25,8 @@ Forward a pull request to the project owner.
 
 ## Cherry-picking
 Cherry-picking in Git is meant to apply some commit from one branch into another branch. In case you made a mistake and committed a change into the wrong branch, but do not want to merge the whole branch. You can revert the commit and cherry-pick it on another branch
+
+## Fetching
+It is used to fetch branches and tags from one or more other repositories, along with the objects necessary to complete their histories. It updates the remote-tracking branches.
+
+
