@@ -7,3 +7,5 @@
 ## pull request
 * pull requsts let you tell others about changes you have pushed to a branch in a repository on github.
 
+## push request
+* A push request would be the target repository requesting you to push your changes.
