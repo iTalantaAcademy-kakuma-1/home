@@ -19,3 +19,4 @@
 
 **Version Control System** - this are softwares that helps us developers to manage changes in theier source codes over time.
 
+**Issues** - this act like tracker of your work in GitHub.
