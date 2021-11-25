@@ -28,6 +28,11 @@
 ## clonning
 * it is the process of copying someone's folder or repository to your own local machine.
 
+## GitHub
+* github is a web-based verson-control and collaboration platform for software developers.
+
+___
+
 
   
 
