@@ -9,3 +9,10 @@
 3 Cloning, is a process of copy/pasting someone repository in your local machine
 
 4 Forking, copy/pasting someone repository to your github account
+
+5 user/stories, this are elements about a product or service in accordance with user perspectives such as:
+         
+        Roles
+        What
+        Why
+
