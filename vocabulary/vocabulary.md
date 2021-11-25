@@ -6,3 +6,7 @@
 
 **development- strategy**: this are the  steps require before develop a project and the plans to accompish it
 
+**design.md**: this is a wireframe that contain blueprint 
+
+**repoaitory**: this is a storage of data or codes
+
