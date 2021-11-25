@@ -16,3 +16,8 @@
         What
         Why
 
+6 Userpersona, this are fictional characters that you create base off what you have learnt about users of your application eg:
+
+        Name
+        Picture
+        Relevant features
