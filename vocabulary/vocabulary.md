@@ -22,3 +22,6 @@ It is a central location where code or data is stored.
 
 _**Branch**_ -
 Is an isolated environment where we do our development.
+
+_**Pull Request**_ -
+This is submitting code contributions to a project where you are not the sole developer.
