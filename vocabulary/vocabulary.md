@@ -13,3 +13,6 @@ This is downloading someone's repository into your local machine.
 
 _**Commit**_ - 
 Is the process of adding your code to your local repository.
+
+_**Git**_ -
+It is a distributed version control system.
