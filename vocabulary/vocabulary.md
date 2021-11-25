@@ -10,3 +10,7 @@ This command is used to start a new repository.
 
 ![Git Init](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/2-6.png)
 
+# 3.npm install
+This  helps to install all dependencies. From NPM 
+
+[ more](https://snyk.io/advisor/npm-package/npm-git-install)
