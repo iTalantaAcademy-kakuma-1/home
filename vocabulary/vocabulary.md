@@ -16,3 +16,6 @@ Is the process of adding your code to your local repository.
 
 _**Git**_ -
 It is a distributed version control system.
+
+_**Repository**_ - 
+It is a central location where code or data is stored.
