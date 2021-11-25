@@ -9,4 +9,7 @@ _**Lightweight Markup Language**_ -
 This means the language syntax is simple tpo write and read in raw form.
 
 _**Clone**_ - 
-This is downloading someone's repository into your local machine
+This is downloading someone's repository into your local machine.
+
+_**Commit**_ - 
+Is the process of adding your code to your local repository.
