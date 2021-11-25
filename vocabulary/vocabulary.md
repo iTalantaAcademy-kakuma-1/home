@@ -16,4 +16,7 @@
 ## Milestone:
 * Is breaking work or project into small part .
   
+## Backlog:
+* is a list of user story that contents Must have, Should have, could have.
+  
 
