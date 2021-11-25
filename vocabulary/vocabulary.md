@@ -31,6 +31,9 @@
 ## GitHub
 * github is a web-based verson-control and collaboration platform for software developers.
 
+## master branch
+* it is where all codes are usually pushed.
+
 ___
 
 
