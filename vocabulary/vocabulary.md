@@ -29,3 +29,11 @@ This helps to show everything you've installed
 # 6.npm search
 This command is to show everything that's available in the public registry.
  [more](https://docs.npmjs.com/cli/v7/commands/npm-search)
+ # 7.git-config
+This helps to get and set repository or global options
+[more](https://git-scm.com/docs/git-config)
+
+# 8.git commit
+this will help to record changes to the repository
+[more](https://git-scm.com/docs/git-commit)
+
