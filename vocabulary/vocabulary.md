@@ -13,3 +13,6 @@
 **NPM** - this stands for node package manager.
 
 **Dependencies** - this is specific library that maybe a given line of code depends on.
+
+**Git** - this is an open source distributed  version control system. usually used to store content or codes.
+ 
