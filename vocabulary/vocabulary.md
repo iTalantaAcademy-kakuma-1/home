@@ -15,4 +15,4 @@
 **Dependencies** - this is specific library that maybe a given line of code depends on.
 
 **Git** - this is an open source distributed  version control system. usually used to store content or codes.
- 
+**CLI** - this is a command line interface in visual studio code 
