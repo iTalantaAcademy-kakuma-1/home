@@ -12,3 +12,6 @@ nODE PACKAGE MANAGER npm is a package manager for the JavaScript programming lan
 
 ## Node.js. 
 It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry.
+
+## Git: 
+GTI is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
