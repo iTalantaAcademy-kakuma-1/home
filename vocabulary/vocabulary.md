@@ -23,3 +23,5 @@ syntax is rule or formula for certain codding formula.
 
 ## npm install:
  downloads a package and it's dependencies. npm install can be run with or without arguments. When run without arguments, npm install downloads dependencies defined in a package. json file and generates a node_modules folder with the installed modules.
+ ## gitignore:
+is the syntax of ignoring some folders that consist of some files you don't wanted to be copied.
