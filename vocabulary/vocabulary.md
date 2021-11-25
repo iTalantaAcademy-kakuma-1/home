@@ -16,3 +16,6 @@ It has the starter materilas for the planning and collaborating deliverable.
 # *HTML*
 It is the most widely used language for developing web pages
 It defines the structure of websites and web pages formating.
+
+# *CSS*.
+Is a simple design language used for marking web pages to look good and presentable.
