@@ -37,3 +37,5 @@ This helps to get and set repository or global options
 this will help to record changes to the repository
 [more](https://git-scm.com/docs/git-commit)
 
+# 9.git pull
+help to fetch from and integrate with another repository or a local branch [more](https://git-scm.com/docs/git-pull)
