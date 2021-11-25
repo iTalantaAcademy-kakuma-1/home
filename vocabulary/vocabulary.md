@@ -25,3 +25,9 @@
 ## forking
 * forking is the process of copying someone's else repository to your own github account.
 
+## clonning
+* it is the process of copying someone's folder or repository to your own local machine.
+
+
+  
+
