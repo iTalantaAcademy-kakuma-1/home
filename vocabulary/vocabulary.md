@@ -20,4 +20,5 @@ A roll consisting of an enumeration set of possible items.
 is something which consist of various of component of computer software.
 
 ###### Persona
-tThese are fictional characters that ones creat based on research.
+These are fictional characters that ones creat based on research.
+
