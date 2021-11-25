@@ -15,3 +15,6 @@
 
 ## NPM init
 * npm init can be used to set up a new or existing npm package.
+
+## package.json
+* The package.json file is the heart of any node project. It records important metadata about a project which is required before publishing to npm, and also defines fuctional attributes of a project that npm uses to install dependencie, run scripts, and identify the entry point to our package.
