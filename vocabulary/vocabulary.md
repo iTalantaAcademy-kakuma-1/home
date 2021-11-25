@@ -32,3 +32,7 @@ In git, repository is just a storage location which keeps records of your work.
 > 8. README
 
 This file gives much details of the project, purpose and issues being address in that project.
+
+> 9. NPM
+
+This is an abbreviation for Node Package Manager. NPM provide functionality of pre-built code instead of starting from scratch.
