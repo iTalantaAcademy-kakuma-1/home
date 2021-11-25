@@ -10,3 +10,10 @@
 
 **repoaitory**: this is a storage of data or codes
 
+**npm instal**: this is a comand that is used to install files
+**gitignore**: this is a command that is used to ignore files of node.js from being installed
+
+**node.js package**: this is a library of files that contain js codes
+
+
+
