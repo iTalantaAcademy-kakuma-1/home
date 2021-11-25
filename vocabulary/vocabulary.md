@@ -14,3 +14,9 @@ This command is used to start a new repository.
 This  helps to install all dependencies. From NPM 
 
 [ more](https://snyk.io/advisor/npm-package/npm-git-install)
+
+# 4.npm help
+
+This helps to get a list of available commands.
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20211012124520/Screenshot69.png)
