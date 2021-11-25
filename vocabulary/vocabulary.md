@@ -1,13 +1,17 @@
 # *Vacobularies*
 
-Git is a technical version that controls a system
+# *Git*:
+ is a technical version that controls a system
 
-Github is defined as a repository that hosts features
+# *Github*:
+ is defined as a repository that hosts features
 Npm stands for node package module. it's a huge repo of software that can be used by anyone for free.
 
-Branch is an isolated environment where development or coding is done. it consists of a master branch and features branch
+# *Branch*:
+ is an isolated environment where development or coding is done. it consists of a master branch and features branch
 
-markdown: It is lightweight markup language with a plain text formating syntax
+# *markdown*:
+ It is lightweight markup language with a plain text formating syntax
 
 # *Project Starter*
 
