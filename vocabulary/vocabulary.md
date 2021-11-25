@@ -1,2 +1,2 @@
-**dependencies**: these are codes that are found in package.json that help developers to save time and colaborate
+**forking**: this is creating a copy of someone elses repo on your github account
 
