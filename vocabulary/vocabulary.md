@@ -11,3 +11,4 @@ user persona. these are fictional characters that you create based off what you 
 
 html. this is alanguage used in programming and its mostly used when you are adding content,text,videos and so on and so forth
 css.this is also alanguage used in programming and its mostly used for styling
+cloning.this is copying someone else repository into your local machine
