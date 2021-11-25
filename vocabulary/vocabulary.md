@@ -21,3 +21,5 @@ GITHUB is Application program, where developers shape the future of software, to
 ## syntax:
 syntax is rule or formula for certain codding formula.
 
+## npm install:
+ downloads a package and it's dependencies. npm install can be run with or without arguments. When run without arguments, npm install downloads dependencies defined in a package. json file and generates a node_modules folder with the installed modules.
