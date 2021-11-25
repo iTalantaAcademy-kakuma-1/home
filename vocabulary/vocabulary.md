@@ -9,3 +9,6 @@
 
 ## push request
 * A push request would be the target repository requesting you to push your changes.
+
+## NPM install
+* npm is the package manager for node. it helps with installing various packages and resolving their various dependencies.
