@@ -27,3 +27,6 @@ These are formal rules set to formulate computer statements.
 
 ##### Requirement
 These are solution or solver needed towards any problem when one is having a project to work on.
+
+#### Resource
+something that ones used to achieve a project or objectives.
