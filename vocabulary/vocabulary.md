@@ -10,3 +10,4 @@ backlog. this is a list of user stories organised by priorities
 user persona. these are fictional characters that you create based off what you have learnt the users and they incude ;name,picture and relivant characteristics
 
 html. this is alanguage used in programming and its mostly used when you are adding content,text,videos and so on and so forth
+css.this is also alanguage used in programming and its mostly used for styling
