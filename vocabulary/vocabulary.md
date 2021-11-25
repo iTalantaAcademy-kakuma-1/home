@@ -25,3 +25,7 @@ This helps to get a list of available commands.
 This helps to show everything you've installed
 
 ![](https://i.stack.imgur.com/HmxzQ.png)
+
+# 6.npm search
+This command is to show everything that's available in the public registry.
+ [more](https://docs.npmjs.com/cli/v7/commands/npm-search)
