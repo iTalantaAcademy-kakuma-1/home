@@ -20,3 +20,8 @@ This  helps to install all dependencies. From NPM
 This helps to get a list of available commands.
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20211012124520/Screenshot69.png)
+
+# 5.npm ls
+This helps to show everything you've installed
+
+![](https://i.stack.imgur.com/HmxzQ.png)
