@@ -18,3 +18,10 @@
 
 ## package.json
 * The package.json file is the heart of any node project. It records important metadata about a project which is required before publishing to npm, and also defines fuctional attributes of a project that npm uses to install dependencie, run scripts, and identify the entry point to our package.
+
+## command line interfce (CLI)
+*  command line interface helps connect a user to computer programm or operating system.
+
+## forking
+* forking is the process of copying someone's else repository to your own github account.
+
