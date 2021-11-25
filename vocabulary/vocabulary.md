@@ -19,7 +19,7 @@
 ## Backlog:
 * is a list of user story that contents Must have, Should have, could have.
   
-## Development:
+## Development
 * is the way of making your work to be well prepared a solid plan that will get you started, good teamwork that will carry you to end.
   ## Syntax:
   * Is a computer language that defines the combinations of symbols.
