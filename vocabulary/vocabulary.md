@@ -13,3 +13,6 @@ Basically, help to contribute to an existing source code. The source code mainly
 
 This command help when copying codes from central repository to local repository.
 
+> 4. Syntax
+
+These are rules that define the structure when working with markdown.
