@@ -1,19 +1,20 @@
 <!-- BEGIN HEADER -->
 
-
 # ITalantaAcademy Kakuma 1
 
-> - [Issues](https://github.com/iTalantaAcademy-kakuma-1/home/issues): [`help-wanted`](https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aopen+label%3Ahelp-wanted), [`question`](https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aopen+label%3Aquestion)
+> - [Issues](https://github.com/iTalantaAcademy-kakuma-1/home/issues):
+>   [`help-wanted`](https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aopen+label%3Ahelp-wanted),
+>   [`question`](https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=is%3Aopen+label%3Aquestion)
 > - [Discussions](https://github.com/iTalantaAcademy-kakuma-1/home/discussions/)
 > - [Deliverables](https://github.com/iTalantaAcademy-kakuma-1/home/projects/1)
 > - [Random Groups](https://iTalantaAcademy-kakuma-1.github.io/home/randomizer)
+>
 > <details>
 > <summary>Rubber Ducky</summary>
 >
 > [![Rubber Ducky](./assets/rubber-ducky.png)](https://rubberduckdebugging.com/)
 >
 >  </details>
-
 
 <!-- END HEADER -->
 
@@ -31,8 +32,10 @@ in message history. Think of this repository as your class' forum and home page.
 - [Students](#students)
 - [Coaches](#coaches)
 - Class Notes
-  - [Vocabulary](./vocabulary) (_[PRs](https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=label%3Avocabulary)_)
-  - [Snippets](./snippets) (_[PRs](https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=label%3Asnippets)_)
+  - [Vocabulary](./vocabulary)
+    (_[PRs](https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=label%3Avocabulary)_)
+  - [Snippets](./snippets)
+    (_[PRs](https://github.com/iTalantaAcademy-kakuma-1/home/pulls?q=label%3Asnippets)_)
   - [Chill Zone](./chill-zone)
 - HYF Links
   - [Student Guidebook](https://home.hackyourfuture.be/students)
@@ -77,8 +80,8 @@ in message history. Think of this repository as your class' forum and home page.
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/final-project" style="display: inline">final-project</a></h3>  <ul><li><p>    4 chapters   | <a href="https://github.com/iTalantaAcademy-kakuma-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3Afinal-project">deliverables</a>    | <a href="https://github.com/iTalantaAcademy-kakuma-1/home/issues?q=milestone%3Afinal-project+label%3Acheck-in">check-ins</a>     | <a href="https://github.com/iTalantaAcademy-kakuma-1/home/milestone/13">milestone</a> | <a href="https://github.com/HackYourFutureBelgium/final-project">materials</a>  </p></li></ul></li>
 </ol><br>
 
-
 [TOP](#home)
+
 <!-- END MODULES -->
 
 ---
@@ -318,8 +321,8 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 </ul><br>
 
-
 [TOP](#home)
+
 <!-- END STUDENTS -->
 
 ---
@@ -389,7 +392,6 @@ little comment to say hello and let us all know how your week went.
 </details>
 <br>
 
-
 <!-- BEGIN COACHES -->
   <ul  style="list-style-type:none;">
 
@@ -419,6 +421,6 @@ little comment to say hello and let us all know how your week went.
 </tr></table></li>
 </ul><br>
 
-
 [TOP](#home)
+
 <!-- END COACHES -->
