@@ -1,0 +1,17 @@
+.title {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(255, 0, 119);
+  align-items: center;
+  
+}
+.p{
+  font: size 40px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(0, 255, 76);
+}
+.input{
+  border: 1px solid #;
+  background-color:black
+
+}
