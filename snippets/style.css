@@ -1,0 +1,44 @@
+h1{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: brown;
+}
+
+.one{
+  text-align: center;
+  padding-top: 45px;
+
+}
+
+body{
+  background-color: darkseagreen;
+  border-start-start-radius: 300px;
+  border-bottom-left-radius: 500px;
+  border-top-right-radius: 200px;
+  /* background-color:rgb(184, 184, 99);  */
+}
+
+img{
+  border: 24px solid rgb(28, 182, 79);
+  border-radius: 45px;
+  padding: 20px;
+  width: 50px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 186, 9, 0.5);
+}
+
+img { 
+  width: 30%;
+  height: auto;
+  /* opacity: 0.3; */
+}
+button{
+  
+}
+.papa{
+  display: flex;
+}
