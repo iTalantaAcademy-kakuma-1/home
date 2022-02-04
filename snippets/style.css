@@ -1,0 +1,111 @@
+#title{
+  color: blue;
+  font-size: x-large;
+  text-align: center;
+  font-size: 30sp;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-style: oblique;
+  line-height: 50px;
+  position: fixed;
+  top: -35px;
+}
+label{
+  font-size: x-large;
+  font-weight: bolder;
+  margin-bottom: 15px;
+  color: whitesmoke;
+  background-color: black;
+  font-style: italic;
+}
+input{
+  margin-top: 15px;
+  width: 300px;
+  height: 30px;
+  background-color: white	;
+  margin-top: auto;
+  border: 2px solid white;
+  border-radius: 4px;
+  background-color: #3CBC8D;
+color: white;
+}
+#submit{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 0px 0px;
+  text-decoration: none;
+  margin: 0px 0px;
+  cursor: pointer;
+  
+}
+h1{
+  text-align: center;
+  color: thistle;
+  background-color: black;
+  font-family: sofia serif;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+hr{
+  border-radius: 20px;
+  height: 20px;  
+}
+body{
+  background-color: blueviolet;
+}
+#right{
+  float: right;
+
+}
+#left{
+  float: left;
+}
+#para{
+  color:whitesmoke ;
+}
+img{
+  border-radius: 50%;
+  width: 150px;
+  height: 70px;
+  margin: auto;
+  display: block;
+  
+
+}
+form{
+  justify-content: center;
+  display: block;
+
+}
+.flex-container{
+  display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+flex-flow: flow;
+justify-content: center;
+background-color: rgb(19, 19, 68);
+text-transform: uppercase;
+color: beige;
+flex-grow: 30;
+animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+}
+ul, li{
+  display: flex;
+  margin-left: 40px;
+  justify-content: center;
+  justify-content: space-between;
+  background-color: turquoise;
+  color: white;
+  border-radius: 100px;
+  margin-top: 50px;
+  padding-top: 25px;
+  margin-bottom: 25px;
+}
+ol{
+  display: flex;
+  justify-content: space-between;
+  
+
+}
