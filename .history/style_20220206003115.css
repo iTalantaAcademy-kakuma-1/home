@@ -1,0 +1,13 @@
+div{
+  display: flex;
+  flex-direction: row;
+  animation-fill-mode: both;
+
+}
+.p{
+text-align: center;
+animation-fill-mode: both;
+}
+body{
+  background-color: rgb(204, 192, 192);
+}

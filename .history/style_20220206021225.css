@@ -1,0 +1,14 @@
+div{
+  display: flex;
+  flex-direction: row;
+  float: center;
+
+}
+p{
+text-align: center;
+animation-fill-mode: both;
+}
+body{
+  background-color: rgb(204, 192, 192);
+  align-items: row;
+}
