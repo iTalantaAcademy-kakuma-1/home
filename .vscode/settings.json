@@ -1,7 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "editor.renderIndentGuides": true,
-  "editor.tabSize": 2,
-  "files.autoSave": "off",
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
-}
