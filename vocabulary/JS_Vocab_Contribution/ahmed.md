@@ -1,6 +1,7 @@
 JAVASCRIP VOCABULARY FOR AHMED 
 ##
-## String  is a date type which is used in programing. it normally represents text form instead of numbers.
+## STRING
+ is a data type which is used in programing. it normally represents text form instead of numbers.
 
 WAYS TO WRITE STRING IN JAVASCRIPT
 ____________
@@ -11,6 +12,7 @@ ____________
 * this is a value in a javascrip which its function is either true ore false. if you need to know about something if yes or no.
 ### TYPEOFF
 It is used values in javascrip to retuern and checks if value is defines as parametors.
+the syntax when operating is typeof(value)
 
 
 
