@@ -20,3 +20,10 @@ alert(paragraph[paragraph.search(regex)]);
 var x = new String('Hello world');
 
 alert(x.toString());
+
+//using prompt method
+
+var x = prompt("Enter the first number")
+var y = prompt("Enter the second number")
+var z = x + y;
+document.write("The sum of " + x + " and " + y + " is " + z);
