@@ -1,0 +1,2 @@
+**HOW TO ThROW ABOUT AN ERROR**
+
