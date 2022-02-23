@@ -8,5 +8,6 @@ _________________________________
 # examples of a not function errors include
 
 1) TypeError: "X" is not a fuction.
- 2) TypeError: object doesnot support property or the method {x}.
- 3) TypeError: "X" is not a fuction.
+ *  TypeError: object doesnot support property or the method {x}.
+ * ) TypeError: "X" is not a fuction.
+2) ErrorType: "X" is not a fuction.
