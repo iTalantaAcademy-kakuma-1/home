@@ -1,3 +1,18 @@
-.content{
-  align-items: center;
+.Myimage{
+  border: 5px;
+  margin-top: 15px;
+  float: inline-end;
+  align-content: center;
+
+}
+p{
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+  background-color: cornsilk;
+}
+h1{
+  font-size: larger;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: 100;
 }
