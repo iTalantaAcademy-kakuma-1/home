@@ -1,0 +1,1 @@
+# javascript vocabulary for alamin
