@@ -7,6 +7,8 @@ ul {
 }
 
 li {
+  float: Right;
+=======
   float: right;
 }
 
@@ -16,6 +18,47 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(99, 5, 5);
+}
+
+p{
+ margin-left: 50%;
+ color:white;
+ font: weight: 100%;
+ 
+
+ 
+}
+img{
+  position: relative;
+  left: 40%;
+}
+#text{
+  position: absolute;
+  top: 11.5%;
+
+}
+input{
+  width: 200px;
+  height: 40px;
+}
+button{
+  width: 100px;
+  height: 20px;
+}
+label{
+  position: relative;
+  left: 40%;
+  color:white;
+}
+body{
+  background-image:url(./beach\ img.jpg) ;
+
+}
+
   font-size: larger;
   font-weight: bolder;
 }
