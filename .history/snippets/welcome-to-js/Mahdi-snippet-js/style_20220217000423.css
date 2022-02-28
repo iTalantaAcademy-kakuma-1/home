@@ -1,0 +1,16 @@
+button {
+  font-size: 10em;
+  background-color: #EBF5FF;
+  color: #4312AE;
+  border: 2px solid black;
+  box-shadow: 10px 20px 10px #999999;
+  align-items: center;
+}
+button:hover, button:focus, button:active {
+  color: #EBF5FF;
+  background-color: #4312AE;
+  cursor: pointer; /* displays a hand */
+}
+body{
+  background-color: aquamarine;
+}
