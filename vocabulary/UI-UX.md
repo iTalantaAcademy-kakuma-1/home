@@ -1,3 +1,15 @@
+# **Experience Architecture**
+Experience architecture is a map that lays the outline of the path that a user will take from the start to the intended goal. It is a combination of several UX and design processes:
+
+**Information architecture**: chalking out and designing an information model
+**Interaction design**: developing a structure and pattern of actions or behaviors for a design and its users
+**Experience design**: working out how a design will function across multiple platforms
+
+# **Breadcrumbs**
+If breadcrumbs bring the Grimm Brothers’ famous fairytale of Hansel and Gretel to mind, then you are on the right page. Because the term breadcrumbs in design lingo is also borrowed from the fairy tale.
+
+**Breadcrumbs** are secondary navigation aids that tell users where they are on a website. These allow users to retrace their steps on multilevel websites. Despite their secondary status, breadcrumbs have been in use since 1995, helping make designs user-friendly.
+
 `UX/UX DESIGN TERMINOLOGIES`   
 
 `Mockup`
@@ -28,7 +40,7 @@
   is also referred to as split testing. It is the process that asks users to pick from two versions of your design. The products are presented side by side to a group of users to learn which they like better.
 
   The aim is to test different versions of a product simultaneously to learn about the differences in user preference and behavior between the two. A/B tests are conducted when a working model of the design has been framed.
-=======
+
 # Definition of New words under UI/UX course.
 
 1. **Wire-Frame**- It is a visual guide that represents the skeletal framework of a website. 
