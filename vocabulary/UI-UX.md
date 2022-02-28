@@ -1,3 +1,8 @@
+1. _**Divergent thinking**_ -  is free-flowing, non-linear, and feels “creative” to some.
+2. _**UX Experience**_ - This is how the user feel about a program.
+3. **Personas**_ - These are fictional characters whose goals and characteristics represent the needs of a larger group of users.
+4. _**End Users**_ - These are the final users who use the product.
+5. _**UX Booth**_ - is a publication by and for the user experience community.
   # UI Elements
 User Interface (UI) elements are virtual items on a website’s interface that allow users to engage with the design. E.G buttons, slider arrows, navigation bars, dropdown lists, message boxes. 
 
