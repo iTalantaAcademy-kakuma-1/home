@@ -1,3 +1,81 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+ /* Animation */
+ div {
+  width: 100px;
+  height: 100px;
+  background-color: transparent;
+  position: relative;
+  float: right;
+  margin-right:20% ;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-direction: normal;
+  
+  
+}
+
+@keyframes example {
+  0%   {background-color:transparent; left:0px; top:0px;}
+  25%  {background-color:transparent; left:200px; top:0px;}
+  50%  {background-color:transparent; left:200px; top:200px;}
+  75%  {background-color:transparent; left:0px; top:200px;}
+  100% {background-color:transparent; left:0px; top:0px;}
+}
+body{
+  background-image: url(./image/back1.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+footer{
+  position: absolute;
+  bottom: -22%;
+  text-align: center;
+  padding: 3px;
+  background-color:#333 ;
+  color: white;
+  width: 100%;
+  margin-top: 10%;
+  margin-bottom: 0%;
+
+
+}
+footer a{
+  color: purple;
+}
+#earth{
+border-radius: 50%;
+position: absolute;
+top: 20%;
+left: 30%;
+width:45%;
+
+
+
 
 body {
   background-color: antiquewhite;
