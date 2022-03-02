@@ -88,7 +88,7 @@ export function getNestedValue(object, propertyName) {
         subObject = subObject[parts[i]];
     }
 
-    return subObject;
+    return subObject
 }
 
 ![Difference](./difference.JPG)
