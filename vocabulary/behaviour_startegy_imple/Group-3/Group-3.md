@@ -1,8 +1,8 @@
 # contributors: 
 1. Kambale Kibeho Dessai
-![](./D-essai-Kibeho on Instagram_ _La Nature est un don d_ Omega__COs0kNBBpGA(JPG).jpg)
+![](./Dessai.JPG)
 2. Achiek Ayuen
-  ![](./WhatsApp Image 2022-03-02 at 09.52.25.jpeg)
+  ![](./Acheiek.JPG)
 3. Ahmed Abdi
    ![](./muhamed.JPG)
 
