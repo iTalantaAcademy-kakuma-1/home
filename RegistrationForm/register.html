@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+
+    <!-- <link rel="stylesheet" href="registration-form.css"> -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+</head>
+
+<body>
+
+
+    <div class="container">
+        <form action="" method="post" class="jumbotron container">
+
+            <div class="form-group">
+                <label for="username">Username</label>
+                <input type="text" class="form-control username">
+            </div>
+
+
+
+            <label for="password">Password</label>
+            <input type="password" class="form-control password">
+
+            <label for="email">Email</label>
+            <input type="email" class="form-control email">
+            <br>
+            
+            <p>Username: <span class="span-username" align="right"></span></p>
+            
+           
+
+            <p>Password: <span class="span-password"></span></p>
+            
+         
+            <p>Email: <span class="span-email"></span></p>
+            
+        </form>
+
+    </div>
+
+    <script>
+        const username = document.querySelector('.username');
+        const spanName = document.querySelector('.span-username');
+
+
+        let password = document.querySelector('.password');
+        let spanPassword = document.querySelector('.span-password')
+
+        let Email = document.querySelector('.email');
+        let span_email = document.querySelector('.span-email')
+
+        function displyaDetails() {
+
+            const user = username.value;
+            spanName.innerText = user;
+
+            let pass = password.value
+            spanPassword.innerText = pass;
+
+            let e_mail = Email.value;
+            span_email.innerText = e_mail;
+
+        }
+
+        username.addEventListener('input', displyaDetails);
+        password.addEventListener('input', displyaDetails);
+        Email.addEventListener('input', displyaDetails);
+    </script>
+
+
+</body>
+
+</html>
+
