@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator</title>
+    <link rel="stylesheet" href="calculator.css">
+  </head>
+  <body>
+    <div class="container">
+
+      <form action="" name="myForm">
+
+        <input type="text" id="calculator" name="result">
+        <br />
+        <br />
+
+        <input style="align: right" type="button" value="del" onclick="myForm.result.value = myForm.result.value.substr(0, myForm.result.value.length-1) " id="clea"/> <br />
+        <input type="button" value="1" onclick="myForm.result.value +='1' ">
+        <input type="button" value="2" onclick="myForm.result.value +='2' "/>
+        <input type="button" value="3" onclick="myForm.result.value +='3' "/>
+        <input type="button" value="+" onclick="myForm.result.value +='+' "/>
+        <br />
+  
+        <input type="button" value="4" onclick="myForm.result.value +='4' "/>
+        <input type="button" value="5" onclick="myForm.result.value +='5' "/>
+        <input type="button" value="6" onclick="myForm.result.value +='6'"/>
+        <input type="button" value="-" onclick="myForm.result.value +='-'"/>
+        <br />
+  
+        <input type="button" value="7"onclick="myForm.result.value += '7' "/>
+        <input type="button" value="8" onclick="myForm.result.value += '8' "/>
+        <input type="button" value="9" onclick="myForm.result.value += '9' "/>
+        <input type="button" value="x" onclick="myForm.result.value += '*'"/>
+        <br />
+  
+        <input type="button" value="/" onclick="myForm.result.value += '/'"/>
+        <input type="button" value="0" onclick="myForm.result.value += '0'"/>
+        <input type="button" value="." onclick="myForm.result.value += '.'"/>
+        <input type="button" value="=" onclick="myForm.result.value = eval(myForm.result.value)"/>
+
+
+        <br />
+        <input type="button" value="clear" onclick="myForm.result.value ='' " id="clear"/>
+       
+
+        <br />
+       
+      </form>
+
+    </div>
+    
+   
+  </body>
+</html>
+
+
+
