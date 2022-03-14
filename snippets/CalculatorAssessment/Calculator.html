@@ -1,0 +1,110 @@
+<!DOCTYPE html>  
+<html lang = "en">  
+<head>  
+<title> SIMPLE CALCULATOR </title>  
+  
+<style> 
+.container{
+  background-color:plum;
+    border : 1px solid;
+    max-width: 350px;
+    border-bottom: center;
+
+} 
+h1 {  
+  background-color:white;
+    align-items:center;
+    } 
+    button{
+      border-bottom: 1px solid black;
+      border-top: 0in;
+    } 
+  
+#clear{  
+width: 270px;  
+border: 3px solid gray;  
+    border-radius: 3px;  
+    padding: 20px;  
+    background-color: red;  
+}  
+  
+.formstyle
+{  
+width: 100px;  
+height: 200px;  
+margin: auto;  
+border: 3px solid skyblue;  
+border-bottom: 0vh;  
+padding: 20px;  
+}  
+  
+  
+  
+input  
+{  
+width: 20px;  
+background-color: green;  
+color: white;  
+border: 3px solid gray;  
+    border-radius: 5px;  
+    padding: 26px;  
+    margin: 5px;  
+    font-size: 15px;  
+} 
+.Clear All{
+  background-color:rgb(255, 255, 255); ;
+
+} 
+  
+  
+#calc{  
+width: 280px;  
+border: 4px solid black;  
+    border-radius: 3px;  
+    padding: 20px;  
+    margin: auto;  
+}  
+  
+</style>  
+  
+</head>  
+<body> 
+  <div>
+ 
+<div class= "container"> 
+  <h1> calculator</h1> 
+<form name = "index1">  
+      
+   <input id = "calc" type ="text" name = "answer"> <br>  
+  <!-- Display the calculator button on the screen. -->  
+  <!-- onclick() function display the number prsses by the user. -->  
+  <input type = "button" value = "1" onclick = "index1.answer.value += '1' ">  
+  <input type = "button" value = "2" onclick = "index1.answer.value += '2' ">  
+  <input type = "button" value = "3" onclick = "index1.answer.value += '3' ">  
+   <input type = "button" value = "+" onclick = "index1.answer.value += '+' ">  
+  <br>  
+    <input type = "button" value = "4" onclick = "index1.answer.value += '4' ">  
+  <input type = "button" value = "5" onclick = "index1.answer.value += '5' ">  
+  <input type = "button" value = "6" onclick = "index1.answer.value += '6' ">  
+  <input type = "button" value = "-" onclick = "index1.answer.value += '-' ">  
+  <br> 
+    <input type = "button" value = "7" onclick = "index1.answer.value += '7' ">  
+  <input type = "button" value = "8" onclick = "index1.answer.value += '8' ">  
+  <input type = "button" value = "9" onclick = "index1.answer.value += '9' ">  
+  <input type = "button" value = "*" onclick = "index1.answer.value += '*' ">  
+  <br>  
+    <input type = "button" value = "/" onclick = "index1.answer.value += '/' ">  
+  <input type = "button" value = "0" onclick = "index1.answer.value += '0' ">  
+    <input type = "button" value = "." onclick = "index1.answer.value += '.' ">  
+ 
+  <input type = "button" value = "=" onclick = "index1.answer.value = eval(index1.answer.value) ">  
+  <br>
+
+  <input type = "button" value = "Clear All" onclick = "index1.answer.value = ' ' " id= "clear" >  
+  <br>
+</div> 
+</div>   
+    
+</form>  
+ </body>  
+</html>
